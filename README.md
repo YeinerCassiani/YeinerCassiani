@@ -8,7 +8,7 @@
 - 📫 How to reach me **cassianiyanezyeiner@gmail.com**
 
 - 📄 Know about my experiences [Biocosta Group (Internship) • Angular Frontend Developer. • Management and consumption of APIs. • Creation of tools that allow or optimize the automation of the different areas of the company. • Technical support. 
-Website for the company GE Abogados: • Analysis and dialogue of the website requirements based on client requests. • Establishment of limits, time and proposals for the implementation of sections of the website. • Website creation using HTML, CSS (Flexbox, CSS Grid, Media Querys for mobile responsive design) and JavaScript. • Use of Hostinger to obtain hosting and domain. • SEO management. https://geabogados.com.co/]
+- Website for the company GE Abogados: • Analysis and dialogue of the website requirements based on client requests. • Establishment of limits, time and proposals for the implementation of sections of the website. • Website creation using HTML, CSS (Flexbox, CSS Grid, Media Querys for mobile responsive design) and JavaScript. • Use of Hostinger to obtain hosting and domain. • SEO management. https://geabogados.com.co/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
