@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **INFOBANK**
 
-- 🌱 I’m currently learning **React, Python, MongoDB**
+- 🌱 I’m currently learning and working with **React, Python, MongoDB**
 
 - 📫 How to reach me **cassianiyanezyeiner@gmail.com**
 
