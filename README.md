@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yeiner Cassiani</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on **BIOSOFT**
+- 🔭 I’m currently working on **INFOBANK**
 
-- 🌱 I’m currently learning **Ángular, TypeScript, C#**
+- 🌱 I’m currently learning **React, Python, MongoDB**
 
 - 📫 How to reach me **cassianiyanezyeiner@gmail.com**
 
